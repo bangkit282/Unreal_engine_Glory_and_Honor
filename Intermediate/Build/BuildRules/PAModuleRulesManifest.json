@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\msi user\\Documents\\Unreal Projects\\PA\\Intermediate\\Source\\PA.Build.cs",
+		"C:\\Users\\msi user\\Documents\\Unreal Projects\\PA\\Intermediate\\Source\\PA.Target.cs",
+		"C:\\Users\\msi user\\Documents\\Unreal Projects\\PA\\Intermediate\\Source\\PAClient.Target.cs",
+		"C:\\Users\\msi user\\Documents\\Unreal Projects\\PA\\Intermediate\\Source\\PAEditor.Target.cs",
+		"C:\\Users\\msi user\\Documents\\Unreal Projects\\PA\\Intermediate\\Source\\PAServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
